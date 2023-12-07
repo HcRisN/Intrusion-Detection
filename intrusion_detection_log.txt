@@ -1,0 +1,117 @@
+Timestamp: 2023-12-06 21:36:49.119895474 CST
+-----------------------------------
+CPU Usage: 0%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:36:53.856912942 CST
+-----------------------------------
+CPU Usage: 5%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:36:56.078869292 CST
+-----------------------------------
+CPU Usage: 5%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:36:58.311761933 CST
+-----------------------------------
+CPU Usage: 7%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:00.565678319 CST
+-----------------------------------
+CPU Usage: 8%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:02.778197110 CST
+-----------------------------------
+CPU Usage: 17%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:04.995957557 CST
+-----------------------------------
+CPU Usage: 5%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:07.201911117 CST
+-----------------------------------
+CPU Usage: 0%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:09.413925657 CST
+-----------------------------------
+CPU Usage: 0%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:11.615596334 CST
+-----------------------------------
+CPU Usage: 5%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:13.828360472 CST
+-----------------------------------
+CPU Usage: 9%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:16.033992421 CST
+-----------------------------------
+CPU Usage: 2%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+
+----------------------------------------------------
+Timestamp: 2023-12-06 21:37:17.022238005 CST
+-----------------------------------
+CPU Usage: 2%
+RAM Usage: 27%
+Storage Percentage: 73%
+
+Captured Network Packet:
+Script terminated.
+----------------------------------------------------
